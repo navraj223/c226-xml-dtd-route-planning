@@ -1,0 +1,7 @@
+<!DOCTYPE route SYSTEM "route.dtd">
+<route>
+    <origin>5241 N. Maple Avenue, Fresno, CA 93710</origin>
+    <destination>Yosemite National Park</destination>
+    <distance>100 miles</distance>
+</route>
+
