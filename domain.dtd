@@ -2,5 +2,4 @@
 <!ELEMENT origin (#PCDATA)>
 <!ELEMENT destination (#PCDATA)>
 <!ELEMENT distance (#PCDATA)>
-<!-- This means now that, <route> must have exactly three children in this order: <origin>, <destination> and <distance>>
-<!-- origin, destination, and distance just hold text, which can be city names or numbers>
+
